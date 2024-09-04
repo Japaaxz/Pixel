@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.padrao {
+  border: solid rgb(85, 19, 19) 2px;
+}
+.padrao div {
+  width: 1916px;
+  background-color: rgb(255, 115, 0);
+  height: 200px;
+}/*# sourceMappingURL=style.css.map */

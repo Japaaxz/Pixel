@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+// Primeira Medida Absoluta - Pixel = px
+.padrao{
+    border: solid rgb(85, 19, 19) 2px;
+    
+    // aninhamente, ato de organizar os estilos de acordo com as tags
+    div{
+        width: 1916px;
+        background-color: rgb(255, 115, 0);
+        height: 200px;
+    }
+}
